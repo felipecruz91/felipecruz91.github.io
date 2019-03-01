@@ -32,3 +32,8 @@ topics:
     web_url: https://grafana.com/
     image_url: https://freeicons.io/laravel/public/uploads/icons/png/8135670941548141941-256.png
 
+volunteer:
+  - org: Kamstrup Malaga Meetups
+    role: Co-organizer, Speaker
+    web_url: https://www.meetup.com/Kamstrup-Malaga
+    image_url: https://www.meetup.com/mu_static/en-US/logo--script.004ada05.svg
